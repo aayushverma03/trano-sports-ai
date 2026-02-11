@@ -3,14 +3,18 @@ Respository of player performance analytics using computer vision and also produ
 
 Football player analysis and scoring engine for TRANO platform. This is an example repository. 
 
-## 🧠 What It Does
+## What It Does
 This repo contains:
 - Scoring engine (Technical, Psychological, Foundational)
 - Demo notebook
-- Example data
-- Unit tests
+- Unit tests Samples
 
-## 📁 Structure
+## Tests to be evaluated sample overview
+
+<img width="791" height="550" alt="image" src="https://github.com/user-attachments/assets/a5fd08bd-81e1-4e54-a525-3224786e82e3" />
+
+
+## Test Output Samples
 
 ![WhatsApp Image 2026-02-11 at 4 37 06 PM](https://github.com/user-attachments/assets/3d2ab923-b6d4-49d7-af7a-9277300d7ac6)
 
