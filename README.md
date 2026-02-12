@@ -1,4 +1,4 @@
-# trano-sports-ai
+# Elite 11 Plus -ai
 Respository of player performance analytics using computer vision and also product/feature development for APP
 
 Football player analysis and scoring engine for TRANO platform. This is an example repository. 
